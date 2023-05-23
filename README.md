@@ -1,7 +1,7 @@
 <h1 align="center">TrackerBot: Object Tracking and Collision Avoidance using UGV</h1>
 
 <p align="center">
-<img src="Images/Amity_University_Kolkata.png" width="600" height="">
+<img src="Images/Amity_University_Kolkata.png" width="800" height="">
 </p>
 
 
