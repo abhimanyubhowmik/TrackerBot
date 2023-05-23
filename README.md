@@ -7,6 +7,14 @@
 
 > **Abstract:** *Autonomous rovers are mobile robots, designed to operate in various conditions without any human intervention. These rovers are equipped with sensors, actuators, and control systems that enable them to navigate and interact with their environment. They are widely employed in fields like exploration, search and rescue, environmental monitoring, and surveillance. This research presents the construction and development of an autonomous rover that integrates parallel object tracking, videography, and collision avoidance. The proposed system is designed to operate in real-world scenarios where the rover can navigate safely and capture high-quality visual data of its targeted moving object which can be a living or non-living thing. The rover's control system is based on a combination of classical controllers such as PID controller accompanied by computer vision techniques, enabling it to detect and track objects at a parallel level in its environment, avoid obstacles and collisions, and record video footage with minimal hardware requirements. The proposed system's performance will be evaluated through extensive testing, where the rover's ability to navigate complex environments and capture high-quality visual data will be assessed.*
 
+<h2>TrackerBot Rover</h2>
+
+<div align="center">
+<img src = "Images/TrackerBot.png" width="100%">
+<p>The TrackerBot Prototype (STL files available <a href= "https://github.com/abhimanyubhowmik/TrackerBot/blob/main/Hardware_Simulation/Rover.stl">here</a>) </p>
+</div>
+
+
 <h2>Components</h2>
 
 <div align="center">
