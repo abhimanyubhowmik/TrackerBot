@@ -110,8 +110,8 @@ https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/fcdceb95-c8d1-49d
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1VKnbscyB5XOs3nHPXggrUZ33LQrMDw7yvpHOzUAUC40/edit?usp=sharing) 
 
 ## References Used:
-- https://arxiv.org/abs/1609.04802
-- https://arxiv.org/abs/1707.02921
-- https://arxiv.org/abs/2203.09445
-- https://www.uni-goettingen.de/de/document/download/e3004c6e53ca2fa0a30d53d98a52c24e.pdf/MA_Freudenberg.pdf
+- https://github.com/vinay-lanka/navbot_hardware
+- https://github.com/leggedrobotics/darknet_ros
+- https://github.com/ros-drivers/usb_cam
+- https://pypi.org/project/filterpy/1.1.0/
 
